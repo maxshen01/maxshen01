@@ -10,14 +10,12 @@ I enjoy writing clean, scalable projects. I am currently working on creating my 
 |----------|-------------|
 | Languages | Java, Python, JavaScript, SQL |
 | Backend | Spring Boot, Node.js (Express.js) |
-| Frontend | HTML, CSS |
 | Databases | PostgreSQL |
 | Testing | JUnit, Pytest, Jest |
 | DevOps & Cloud | Docker, AWS (EC2), Terraform, Ansible |
 | AI / LLMs | Gemini API (Google GenAI SDK) |
-| Tools & Practices | Git, Maven, Agile development |
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 ### Premier League Table Editor Website
 A playful website that allows users to edit the 2025/2026 premier league table. 
@@ -53,4 +51,4 @@ A web based quiz application, that allowed teachers to add questions, and studen
 
 - Built with Express.js, Bootstrap and PostgreSQL
 - Used JWT Token Authentication to differentiate between teachers and students
-- Created comprehensive unit and integration tests.
+- Created comprehensive unit and integration tests. -->
