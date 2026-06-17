@@ -26,3 +26,31 @@ A playful website that allows users to edit the 2025/2026 premier league table.
 - Deployed on an AWS EC2 Instance
 
 ### Holiday Planning AI Agent
+A Holiday planning agent that helps with picking the date and location of a holiday, along with booking it to your google calendar.
+
+- Built with Python, Google GenAI SDK
+- Integrated OAuth 2.0 authentication flow
+- Developed conversational memory for the Agent
+- Created comprehensive unit and integration tests.
+
+### K2 Management Internship Project
+A Python based desktop application I developed during my Software Engineering Internship at K2 Management (Summer 2024). 
+
+- Built with Python, PyQt5, Pandas and PyQtGraph
+- Implemented OOP Principles to create a scalable product
+- Manipulated datasets with over 10 million datapoints using Pandas Data frames
+- Improved speed by 10% and expanded plot options from 10 to 100
+
+### Web Based Review Platform
+A web based platform for employees to leave reviews on customers. It included data visualisation of the reviews. 
+
+- Built with Express.js, Bootstrap and PostgreSQL
+- Deployed on an AWS EC2 Instance
+- Used JWT Token Authentication to differentiate between managers and employees
+
+### Web Based Quiz Application 
+A web based quiz application, that allowed teachers to add questions, and students to do quizes. 
+
+- Built with Express.js, Bootstrap and PostgreSQL
+- Used JWT Token Authentication to differentiate between teachers and students
+- Created comprehensive unit and integration tests.
