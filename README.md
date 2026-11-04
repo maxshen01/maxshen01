@@ -9,7 +9,7 @@ I enjoy writing clean, scalable projects. I am currently working on creating my 
 | Category | Technologies |
 |----------|-------------|
 | Languages | Java, Python, JavaScript, SQL |
-| Frontend | React.js, Vite, HTML/CSS, Bootstrap |
+| Frontend | React, Vite, HTML/CSS, Bootstrap |
 | Backend | Spring Boot, Node.js (Express.js) |
 | Databases | PostgreSQL |
 | Testing | JUnit, Pytest, Jest |
