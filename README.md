@@ -14,7 +14,7 @@ I enjoy writing clean, scalable projects. I am currently working on creating my 
 | Databases | PostgreSQL |
 | Testing | JUnit, Pytest, Jest |
 | DevOps & Cloud | Docker, AWS (EC2), Terraform, Ansible |
-| AI / LLMs | Codex Gemini API (Google GenAI SDK) |
+| AI / LLMs | Codex, Gemini API (Google GenAI SDK) |
 
 <!-- ## 📌 Featured Projects
 
